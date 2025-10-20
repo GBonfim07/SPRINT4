@@ -59,13 +59,7 @@ Os resultados esperados foram definidos com base no comportamento real da aplica
 ---
 
 ## 📹 Vídeo de Demonstração  
-
-🎬 Este vídeo apresenta:  
-- Navegação completa pelo **Azure Boards**;  
-- Estrutura dos Épicos, Features e PBIs;  
-- Detalhamento dos testes manuais;  
-- Planejamento da Sprint e tarefas relacionadas.  
-
+   
 ➡️ [Clique aqui para assistir ao vídeo](https://www.youtube.com/watch?v=cqJacEey4_g)  
 
 ---
