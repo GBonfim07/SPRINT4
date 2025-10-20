@@ -35,7 +35,7 @@ A gestão do backlog foi organizada em uma hierarquia clara de **Épicos**, **Fe
 
 Todo o planejamento detalhado — incluindo o Product Backlog, as Sprints e os itens de trabalho — está centralizado no **Azure Boards**.  
 
-🔗 **Link para o Azure Boards:** [Acessar Projeto no Azure Boards](https://dev.azure.com/SEU_ORG/SEU_PROJETO/_boards)  
+🔗 **Link para o Azure Boards:** [Acessar Projeto no Azure Boards]([https://dev.azure.com/SEU_ORG/SEU_PROJETO/_boards](https://dev.azure.com/RM98864/SPRINT%203)  
 
 > ⚠️ O professor precisa ser membro da organização e do projeto para acessar e corrigir o trabalho.  
 
@@ -66,7 +66,7 @@ Os resultados esperados foram definidos com base no comportamento real da aplica
 - Detalhamento dos testes manuais;  
 - Planejamento da Sprint e tarefas relacionadas.  
 
-➡️ [Clique aqui para assistir ao vídeo](https://link-do-video.com)  
+➡️ [Clique aqui para assistir ao vídeo](https://www.youtube.com/watch?v=cqJacEey4_g)  
 
 ---
 
