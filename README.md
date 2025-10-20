@@ -62,12 +62,6 @@ Os resultados esperados foram definidos com base no comportamento real da aplica
    
 ➡️ [Clique aqui para assistir ao vídeo](https://www.youtube.com/watch?v=cqJacEey4_g)  
 
----
-
-## 🌿 Branch de Entrega  
-
-A documentação e os links estão disponíveis na branch:  
-> **develop**  
 
 ---
 
@@ -82,5 +76,3 @@ Projeto desenvolvido por:
 - **Natan Eguchi dos Santos** – RM98720  
 
 ---
-
-📘 *Este repositório faz parte do projeto acadêmico da disciplina de Planejamento e Gestão Ágil, utilizando a integração entre GitHub e Azure DevOps para documentação, versionamento e acompanhamento das entregas.*
